@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+    string name = "Pandimeena";
+
+    string degree = "Computer Applications";
+
+    string dream = "Fashion Designer";
+
+    cout << "----- Student Project -----" << endl;
+
+    cout << "Name   : " << name << endl;
+
+    cout << "Degree : " << degree << endl;
+
+    cout << "Dream  : " << dream << endl;
+
+    cout << "Keep working hard to achieve your dream! 🚀" << endl;
+
+    return 0;
+
+}
